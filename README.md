@@ -93,3 +93,5 @@ Above request triggers following api call and return status code 200 if success 
 Project Requirements
 
 JDK 1.11 or higher Gradle 7.3.2 or higher
+
+Note : use  https://openweathermap.org and create an account, get an API key and use that in your app, with regards to this project, i have done the same and mention that api key in application.properties.
