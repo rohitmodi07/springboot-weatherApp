@@ -1,9 +1,11 @@
-Weather Service :---
+Weather Service :--- added swagger as well for easy access and testing
 
 Weather service is used to fetch current weather details, cordinates, for the given city and country, along with this we cna also check the health of the website.
 
 
 First Endpoint :------------ fetch weather data (/weather)
+swagger : http://loaclhost:8080/swagger-ui.html
+          input should be pass as : city,country (for example - Mumbai,India)
 
 URL : https://localhost:8080/weather?q=city,country
 
