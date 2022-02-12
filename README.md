@@ -4,10 +4,11 @@ Weather service is used to fetch current weather details, cordinates, for the gi
 
 
 First Endpoint :------------ fetch weather data (/weather)
-swagger : http://loaclhost:8080/swagger-ui.html
+
+Swagger : http://loaclhost:8080/swagger-ui.html
           input should be pass as : city,country (for example - Mumbai,India)
 
-URL : https://localhost:8080/weather?q=city,country
+Direct URL : https://localhost:8080/weather?q=city,country
 
 Method Type : GET
 
